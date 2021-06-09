@@ -1,9 +1,9 @@
 # React
-React Learnings
+React Learnings by example
 
 ## How to run examples?
 
-- The repository has `src` folder in which the examples files are present. To execute the code the example file need to be renamed to `index.js` and it has to be directly under `src` directory.
+- The repository has `src` folder in which the examples files are present. To execute the code the example file need to be renamed to `index.js` and it has to be directly under `src` directory. This repository is just for learning purpose.
 
 ## Here's what each package does:
 
